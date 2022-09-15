@@ -83,7 +83,7 @@ function App() {
                   </Text>
                   <Box w="50%" h="20px" bg="rgb(86,130,3,.3)"></Box>
                 </Flex>
-                <Link href="https://christmasflakes.nft/" isExternal>
+                <Link href="https://crypto.com/nft/collection/a313e1982ee3942fba7527f1a525fce5" isExternal>
                   <Text fontWeight="bold">
                     Christmasflakes.nft <ExternalLinkIcon mx="2px" />
                   </Text>
@@ -112,7 +112,7 @@ function App() {
                     </Link>
                   </ListItem>
                 </UnorderedList>
-                <Link href="https://crypto.com/nft/collection/260358fe146a4d824df539825ad635dc" isExternal>
+                <Link href="https://crypto.com/nft/profile/svgartist?tab=created&detail-page=PROFILE&event=svgartist&asset=a071562d0f9b29f32515c1a37c9ce63f&edition=f50068966b12a571d8bc9ebc086555f1" isExternal>
                   <Text fontWeight="bold">
                     NFT Collection on crypto.com <ExternalLinkIcon mx="2px" />
                   </Text>
@@ -143,6 +143,30 @@ function App() {
                     A work in progress.
                   </ListItem>
                 </UnorderedList>
+                
+                <Link href="https://rarible.com/token/polygon/0xc39f025fd1882b793792d37284d3db666136940e:4?tab=overview" isExternal>
+                  <Text fontWeight="bold">
+                    NFT Collection on Rarible <ExternalLinkIcon mx="2px" />
+                  </Text>
+                </Link>
+                <Link href="https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/24725983045875046905534710885728759177322124411964335273649058032971774164993" isExternal>
+                  <Text fontWeight="bold">
+                    NFT Collection on OpenSea <ExternalLinkIcon mx="2px" />
+                  </Text>
+
+                </Link>
+
+                <UnorderedList>
+                  <ListItem>
+                    Voxel collection.
+                  </ListItem>
+                  <ListItem>
+                    Built with VoxEdit / MagicaVoxel.
+                  </ListItem>
+                  <ListItem>
+                    A work in progress.
+                  </ListItem>
+                </UnorderedList>
               </GridItem>
               <GridItem colSpan={1} mt="15px">
                 <Image src={img}></Image>
@@ -156,7 +180,7 @@ function App() {
                   <Text fontWeight="bold" pr="5px">
                     Address:
                   </Text>
-                  <Text>Ontario Canada</Text>
+                  <Text>British Columbia Canada</Text>
                 </Flex>
                 <Flex>
                   <Text fontWeight="bold" pr="5px">
@@ -174,6 +198,7 @@ function App() {
                 <UnorderedList mb="10px">
                   <ListItem>Illustrator </ListItem>
                   <ListItem>Photoshop </ListItem>
+                  <ListItem>Figma </ListItem>
                   <ListItem>Blender</ListItem>
                   <ListItem>VS Code</ListItem>
                   <ListItem>Maya</ListItem>
