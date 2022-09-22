@@ -179,6 +179,24 @@ function App() {
                   <ListItem>
                     Building in Figma.
                   </ListItem>
+                  </UnorderedList>
+                  <Link href="https://www.figma.com/file/nto7YKJ2JIj9LikfjHMt3K/Untitled?node-id=0%3A1" isExternal>
+                  <Text fontWeight="bold">
+                    Figma Project Take One<ExternalLinkIcon mx="2px" />
+                  </Text>
+                </Link>
+                <Link href="https://www.figma.com/file/3lsDmWOnqTeHWhiGC3Lviu/Untitled?node-id=0%3A1" isExternal>
+                  <Text fontWeight="bold">
+                    Figma Project Take Two<ExternalLinkIcon mx="2px" />
+                  </Text>
+                </Link>
+                <UnorderedList>
+                  <ListItem>
+                    Qi Gong Landing.
+                  </ListItem>
+                  <ListItem>
+                    Building in Figma.
+                  </ListItem>
                   <ListItem>
                     A work in progress.
                   </ListItem>
